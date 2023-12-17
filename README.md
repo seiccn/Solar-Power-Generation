@@ -13,6 +13,7 @@ The project uses solar power generation data and weather sensor data. The data f
 - `visualization.py`: Script for visualization functions.
 - Other necessary files and dependencies.
 
+# PV systems
 
 - PV system is a power system designed to supply usable solar power by means of photovoltaics.
 
@@ -25,3 +26,4 @@ The project uses solar power generation data and weather sensor data. The data f
 - PV panel is a group of modules that is the basic building block of a PV array.
 
 - PV array is a group of panels that comprises the complete PV generating unit.
+
