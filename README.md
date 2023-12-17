@@ -12,3 +12,16 @@ The project uses solar power generation data and weather sensor data. The data f
 - `data_loading.py`: Script for loading and preprocessing data.
 - `visualization.py`: Script for visualization functions.
 - Other necessary files and dependencies.
+
+
+- PV system is a power system designed to supply usable solar power by means of photovoltaics.
+
+- PV Cell is an electrical device that converts the energy of light directly into electricity by the photovoltaic effect, which is a physical and chemical phenomenon. It is also the basics photovoltaic device that is the building block PV modules.
+
+- Photovoltaic effect is the generation of voltage and electric current in a material upon exposure to light.
+
+- PV module is a group of PV cell connected in serie and/or parallel and encapsulated in an environmentally protective laminate.
+
+- PV panel is a group of modules that is the basic building block of a PV array.
+
+- PV array is a group of panels that comprises the complete PV generating unit.
